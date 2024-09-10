@@ -6,7 +6,7 @@ Components of the application:
 - Stat Calculator GUI - Interactive GUI that lets the user choose between the applications functions. User at the moment has the choice to predict a player's stats in the next season, get a player's stats for a specific season, predict a player's stats for their next game, and get the stats of a player's last game
 
 ## Predict Stats Functionality
-<img width="669" alt="Screenshot 2024-09-09 at 07 44 52" src="https://github.com/user-attachments/assets/7fcca856-e411-4d27-b0f0-f5b6e90ce46f">
-
+![Image 9-9-24 at 07 48](https://github.com/user-attachments/assets/eddac7f0-15bf-4a83-a492-456ed7ba368f)
+![Image 9-9-24 at 07 52](https://github.com/user-attachments/assets/bd38c3be-70c5-472e-9452-926bc90eff58)
 <img width="669" alt="Screenshot 2024-09-09 at 07 55 00" src="https://github.com/user-attachments/assets/0b50a87e-60b1-4db3-b787-d214d053be37">
 
