@@ -9,4 +9,4 @@ Components of the application:
 ![Image 9-9-24 at 07 48](https://github.com/user-attachments/assets/eddac7f0-15bf-4a83-a492-456ed7ba368f)
 ![Image 9-9-24 at 07 52](https://github.com/user-attachments/assets/bd38c3be-70c5-472e-9452-926bc90eff58)
 <img width="669" alt="Screenshot 2024-09-09 at 07 55 00" src="https://github.com/user-attachments/assets/0b50a87e-60b1-4db3-b787-d214d053be37">
-Give it a try!!
+Give it a try!!  
